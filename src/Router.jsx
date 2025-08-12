@@ -1,5 +1,5 @@
 import { Route,Routes } from "react-router-dom"
-import Calc from "./components/calc"
+import Calc from "./components/Calc"
 import Currency from "./components/Currency"
 import Unit from "./components/Unit"
 import Home from "./components/Home"
