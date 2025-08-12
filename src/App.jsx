@@ -1,13 +1,13 @@
-import Calc from "./components/calc"
+import Calc from "./components/Calc"
 import Navbar from "./components/Navbar"
 import Router from "./Router"
-import FloatingBackground from "./components/FloatingBackground"
+
 const App = () => {
   return (
     <div>
       <Navbar />
       <Router/>
-      
+     
       <footer className="bg-gray-800 text-gray-300 py-8 px-4">
     <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
       <div>
