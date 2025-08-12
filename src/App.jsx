@@ -1,4 +1,4 @@
-import Calc from "./components/Calc"
+
 import Navbar from "./components/Navbar"
 import Router from "./Router"
 
